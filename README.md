@@ -28,6 +28,7 @@ Suspended instances will not appear in the federated timeline and you will not b
 
 | Instance | Silence/Suspend | Reason |
 |----------|-----------------|--------|
+| `presidentielle.tech` | Silence | Too many _tweets_ by French politics in the public timeline |
 | `rainbowdash.net` | Silence | A lot of trolls, very MLP themed |
 | `social.au2pb.net` | Silence | Allows controversial content, still some friendly users |
 | `gs.smuglo.li` | Silence | Allows controversial content, still some friendly users |
