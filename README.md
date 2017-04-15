@@ -33,6 +33,7 @@ Suspended instances will not appear in the federated timeline and you will not b
 | `rainbowdash.net` | Silence | A lot of trolls, very MLP themed |
 | `social.au2pb.net` | Silence | Allows controversial content, still some friendly users |
 | `gs.smuglo.li` | Silence | Allows controversial content, still some friendly users |
+| `pawoo.net` | Silence | Allows controversial content (Pedoporn is way too much present) |
 | `shitposter.club` | Suspend | Trolls and xenophobia |
 | `freezepeach.xyz` | Suspend | Allows controversial content |
 | `woofer.alfter.us` | Suspend | Allows controversial content |
