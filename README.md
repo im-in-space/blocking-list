@@ -8,8 +8,8 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 | User | Reason |
 |------|--------|
-| `ldy` | Actually a typo by `kdy` |
 | `Curv` | Actually a typo by `Curvy` |
+| `ldy` | Actually a typo by `kdy` |
 
 ---
 
@@ -26,17 +26,17 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 Silenced instances will not appear in the federated timeline, but you can follow users and communicate with them.  
 Suspended instances will not appear in the federated timeline and you will not be able to follow their users.
 
-| Instance | Silence/Suspend | Reason |
-|----------|-----------------|--------|
-| `presidentielle.tech` | Silence | Too many _tweets_ by French politics in the federated timeline |
-| `social.undernet.uy` | Silence | RSS bots, no need to appear in the federated timline |
-| `rainbowdash.net` | Silence | A lot of trolls, very MLP themed |
-| `social.au2pb.net` | Silence | Allows controversial content, still some friendly users |
-| `gs.smuglo.li` | Silence | Allows controversial content, still some friendly users |
-| `pawoo.net` | Silence | Allows controversial content (Pedoporn is way too much present) |
-| `shitposter.club` | Suspend | Trolls and xenophobia |
-| `freezepeach.xyz` | Suspend | Allows controversial content |
-| `woofer.alfter.us` | Suspend | Allows controversial content |
-| `gorf.club` | Suspend | Allows controversial content |
-| `sealion.club` | Suspend | Allows controversial content |
-| `unsafe.space` | Suspend | Allows controversial content, trolls |
+| Instance | Silence/Suspend | Reject media | Reason |
+|----------|-----------------|--------------|--------|
+| `freezepeach.xyz` | Silence |  | Allows controversial content |
+| `gorf.club` | Silence |  | Allows controversial content |
+| `gs.smuglo.li` | Silence |  |  Allows controversial content, still some friendly users |
+| `pawoo.net` | Silence |  | Allows controversial content (Pedoporn is way too much present) |
+| `presidentielle.tech` | Silence |  | Too many _tweets_ by French politics in the federated timeline |
+| `rainbowdash.net` | Silence |  | A lot of trolls, very MLP themed |
+| `sealion.club` | Silence |  | Allows controversial content |
+| `shitposter.club` | Silence |  | Trolls and xenophobia |
+| `social.au2pb.net` | Silence |  | Allows controversial content, still some friendly users |
+| `social.undernet.uy` | Silence |  | RSS bots, no need to appear in the federated timline |
+| `unsafe.space` | Silence |  | Allows controversial content, trolls |
+| `woofer.alfter.us` | Silence |  | Allows controversial content |
