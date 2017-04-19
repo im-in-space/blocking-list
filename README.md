@@ -15,9 +15,10 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 ### External Users
 
-| User | Reason |
-|------|--------|
-| `@JPNEY@masto.themimitoof.fr` | Death threats, strong xenophobia |
+| User |  Silence/Suspend | Reason |
+|------|------------------|--------|
+| `JPNEY@masto.themimitoof.fr` | Suspend | Death threats, strong xenophobia |
+| `CNNNetwork@mastodon.xyz` | Silence | News bot |
 
 ---
 
