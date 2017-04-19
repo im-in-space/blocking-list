@@ -29,6 +29,7 @@ Suspended instances will not appear in the federated timeline and you will not b
 
 | Instance | Silence/Suspend | Reject media | Reason |
 |----------|-----------------|--------------|--------|
+| `social.bitcast.info` | Silence |  | News bots |
 | `freezepeach.xyz` | Silence |  | Allows controversial content |
 | `gorf.club` | Silence |  | Allows controversial content |
 | `gs.smuglo.li` | Silence |  |  Allows controversial content, still some friendly users |
