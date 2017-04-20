@@ -10,6 +10,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 |------|--------|
 | `Curv` | Actually a typo by `Curvy` |
 | `ldy` | Actually a typo by `kdy` |
+| `yann_c` | Member asked to be deleted |
 
 ---
 
