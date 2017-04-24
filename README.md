@@ -43,3 +43,4 @@ Suspended instances will not appear in the federated timeline and you will not b
 | `social.undernet.uy` | Silence |  | RSS bots, no need to appear in the federated timline |
 | `unsafe.space` | Silence |  | Allows controversial content, trolls |
 | `woofer.alfter.us` | Silence |  | Allows controversial content |
+| `porntoot.com` | Silence | :white_check_mark: | Non-spoiled porn |
