@@ -18,6 +18,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 | User | :no_mouth: / :no_entry_sign: | Reason |
 |------|------------------|--------|
+| `83bot@mst3k.interlinked.me` | :no_mouth: Silence | Lewd and offensive bot |
 | `CNNNetwork@mastodon.xyz` | :no_mouth: Silence | News bot |
 | `aeris@social.imirhil.fr` | :no_entry_sign: Suspend | Threats |
 | `JPNEY@masto.themimitoof.fr` | :no_entry_sign: Suspend | Death threats, strong xenophobia |
