@@ -30,17 +30,18 @@ Suspended instances will not appear in the federated timeline and you will not b
 
 | Instance | Silence/Suspend | Reject media | Reason |
 |----------|-----------------|--------------|--------|
-| `social.bitcast.info` | Silence |  | News bots |
-| `freezepeach.xyz` | Silence |  | Allows controversial content |
 | `gorf.club` | Silence |  | Allows controversial content |
 | `gs.smuglo.li` | Silence |  |  Allows controversial content, still some friendly users |
 | `pawoo.net` | Silence |  | Allows controversial content (Pedoporn is way too much present) |
-| `presidentielle.tech` | Silence |  | Too many _tweets_ by French politics in the federated timeline |
-| `rainbowdash.net` | Silence |  | A lot of trolls, very MLP themed |
-| `sealion.club` | Silence |  | Allows controversial content |
-| `shitposter.club` | Silence |  | Trolls and xenophobia |
-| `social.au2pb.net` | Silence |  | Allows controversial content, still some friendly users |
-| `social.undernet.uy` | Silence |  | RSS bots, no need to appear in the federated timline |
-| `unsafe.space` | Silence |  | Allows controversial content, trolls |
-| `woofer.alfter.us` | Silence |  | Allows controversial content |
 | `porntoot.com` | Silence | :white_check_mark: | Non-spoiled porn |
+| `presidentielle.tech` | Silence |  | Too many _tweets_ by French politics in the federated timeline |
+| `social.au2pb.net` | Silence |  | Allows controversial content |
+| `social.bitcast.info` | Silence |  | News bots |
+| `social.undernet.uy` | Silence |  | RSS bots, no need to appear in the federated timline |
+| `freezepeach.xyz` | Suspend | :white_check_mark: | Allows controversial content |
+| `rainbowdash.net` | Suspend | :white_check_mark: | A lot of trolls, very MLP themed |
+| `sealion.club` | Suspend | :white_check_mark: | Allows controversial content |
+| `social.heldscal.la` | Suspend | :white_check_mark: | Allows controversial content |
+| `shitposter.club` | Suspend | :white_check_mark: | Trolls and xenophobia |
+| `unsafe.space` | Suspend | :white_check_mark: | Allows controversial content, trolls |
+| `woofer.alfter.us` | Suspend | :white_check_mark: | Allows controversial content |
