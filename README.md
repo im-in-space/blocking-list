@@ -16,11 +16,11 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 ### External Users
 
-| User |  Silence/Suspend | Reason |
+| User | :no_mouth: / :no_entry_sign: | Reason |
 |------|------------------|--------|
-| `CNNNetwork@mastodon.xyz` | Silence | News bot |
-| `aeris@social.imirhil.fr` | Suspend | Threats |
-| `JPNEY@masto.themimitoof.fr` | Suspend | Death threats, strong xenophobia |
+| `CNNNetwork@mastodon.xyz` | :no_mouth: Silence | News bot |
+| `aeris@social.imirhil.fr` | :no_entry_sign: Suspend | Threats |
+| `JPNEY@masto.themimitoof.fr` | :no_entry_sign: Suspend | Death threats, strong xenophobia |
 
 ---
 
@@ -29,20 +29,20 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 Silenced instances will not appear in the federated timeline, but you can follow users and communicate with them.  
 Suspended instances will not appear in the federated timeline and you will not be able to follow their users.
 
-| Instance | Silence/Suspend | Reject media | Reason |
+| Instance | :no_mouth: / :no_entry_sign: | Reject media | Reason |
 |----------|-----------------|--------------|--------|
-| `gorf.club` | Silence |  | Allows controversial content |
-| `gs.smuglo.li` | Silence |  |  Allows controversial content, still some friendly users |
-| `pawoo.net` | Silence |  | Allows controversial content (Pedoporn is way too much present) |
-| `porntoot.com` | Silence | :white_check_mark: | Non-spoiled porn |
-| `presidentielle.tech` | Silence |  | Too many _tweets_ by French politics in the federated timeline |
-| `social.au2pb.net` | Silence |  | Allows controversial content |
-| `social.bitcast.info` | Silence |  | News bots |
-| `social.undernet.uy` | Silence |  | RSS bots, no need to appear in the federated timline |
-| `freezepeach.xyz` | Suspend | :white_check_mark: | Allows controversial content |
-| `rainbowdash.net` | Suspend | :white_check_mark: | A lot of trolls, very MLP themed |
-| `sealion.club` | Suspend | :white_check_mark: | Allows controversial content |
-| `social.heldscal.la` | Suspend | :white_check_mark: | Allows controversial content |
-| `shitposter.club` | Suspend | :white_check_mark: | Trolls and xenophobia |
-| `unsafe.space` | Suspend | :white_check_mark: | Allows controversial content, trolls |
-| `woofer.alfter.us` | Suspend | :white_check_mark: | Allows controversial content |
+| `gorf.club` | :no_mouth: Silence |  | Allows controversial content |
+| `gs.smuglo.li` | :no_mouth: Silence |  |  Allows controversial content, still some friendly users |
+| `pawoo.net` | :no_mouth: Silence |  | Allows controversial content (Pedoporn is way too much present) |
+| `porntoot.com` | :no_mouth: Silence | :white_check_mark: | Non-spoiled porn |
+| `presidentielle.tech` | :no_mouth: Silence |  | Too many _tweets_ by French politics in the federated timeline |
+| `social.au2pb.net` | :no_mouth: Silence |  | Allows controversial content |
+| `social.bitcast.info` | :no_mouth: Silence |  | News bots |
+| `social.undernet.uy` | :no_mouth: Silence |  | RSS bots, no need to appear in the federated timline |
+| `freezepeach.xyz` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
+| `rainbowdash.net` | :no_entry_sign: Suspend | :white_check_mark: | A lot of trolls, very MLP themed |
+| `sealion.club` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
+| `social.heldscal.la` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
+| `shitposter.club` | :no_entry_sign: Suspend | :white_check_mark: | Trolls and xenophobia |
+| `unsafe.space` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content, trolls |
+| `woofer.alfter.us` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
