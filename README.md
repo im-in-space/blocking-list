@@ -18,8 +18,9 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 | User |  Silence/Suspend | Reason |
 |------|------------------|--------|
-| `JPNEY@masto.themimitoof.fr` | Suspend | Death threats, strong xenophobia |
 | `CNNNetwork@mastodon.xyz` | Silence | News bot |
+| `aeris@social.imirhil.fr` | Suspend | Threats |
+| `JPNEY@masto.themimitoof.fr` | Suspend | Death threats, strong xenophobia |
 
 ---
 
