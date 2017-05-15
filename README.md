@@ -21,6 +21,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 | `83bot@mst3k.interlinked.me` | :no_mouth: Silence | Lewd and offensive bot |
 | `CNNNetwork@mastodon.xyz` | :no_mouth: Silence | News bot |
 | `aeris@social.imirhil.fr` | :no_entry_sign: Suspend | Threats |
+| `GamerBot@mastodon.social` | :no_entry_sign: Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | :no_entry_sign: Suspend | Death threats, strong xenophobia |
 
 ---
