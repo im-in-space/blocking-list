@@ -36,12 +36,13 @@ Suspended instances will not appear in the federated timeline and you will not b
 |----------|-----------------|--------------|--------|
 | `gorf.club` | :no_mouth: Silence |  | Allows controversial content |
 | `gs.smuglo.li` | :no_mouth: Silence |  |  Allows controversial content, still some friendly users |
-| `pawoo.net` | :no_mouth: Silence |  | Allows controversial content (Pedoporn is way too much present) |
-| `porntoot.com` | :no_mouth: Silence | :white_check_mark: | Non-spoiled porn |
 | `presidentielle.tech` | :no_mouth: Silence |  | Too many _tweets_ by French politics in the federated timeline |
 | `social.au2pb.net` | :no_mouth: Silence |  | Allows controversial content |
 | `social.bitcast.info` | :no_mouth: Silence |  | News bots |
 | `social.undernet.uy` | :no_mouth: Silence |  | RSS bots, no need to appear in the federated timline |
+| `pawoo.net` | :no_mouth: Silence | :white_check_mark: | Pedoporn is way too much present |
+| `porntoot.com` | :no_mouth: Silence | :white_check_mark: | Non-spoiled porn |
+| `anitwitter.moe` | :no_entry_sign: Suspend | :white_check_mark: | Harassment, trolls |
 | `freezepeach.xyz` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
 | `rainbowdash.net` | :no_entry_sign: Suspend | :white_check_mark: | A lot of trolls, very MLP themed |
 | `sealion.club` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
