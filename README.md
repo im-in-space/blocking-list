@@ -35,7 +35,6 @@ Suspended instances will not appear in the federated timeline and you will not b
 | Instance | :no_mouth: / :no_entry_sign: | Reject media | Reason |
 |----------|-----------------|--------------|--------|
 | `gorf.club` | :no_mouth: Silence |  | Allows controversial content |
-| `gs.smuglo.li` | :no_mouth: Silence |  |  Allows controversial content, still some friendly users |
 | `presidentielle.tech` | :no_mouth: Silence |  | Too many _tweets_ by French politics in the federated timeline |
 | `social.au2pb.net` | :no_mouth: Silence |  | Allows controversial content |
 | `social.bitcast.info` | :no_mouth: Silence |  | News bots |
