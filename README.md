@@ -22,6 +22,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 | `jimrusell01@gs.smuglo.li` | :no_mouth: Silence | Only NSFW, appears too much in federated timeline |
 | `83bot@mst3k.interlinked.me` | :no_mouth: Silence | Lewd and offensive bot |
 | `CNNNetwork@mastodon.xyz` | :no_mouth: Silence | News bot |
+| `mastodon_user_matching@2.distsn.org` | :no_entry_sign: Suspend | Spam and malicious links |
 | `aeris@social.imirhil.fr` | :no_entry_sign: Suspend | Threats |
 | `GamerBot@mastodon.social` | :no_entry_sign: Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | :no_entry_sign: Suspend | Death threats, strong xenophobia |
@@ -50,3 +51,5 @@ Suspended instances will not appear in the federated timeline and you will not b
 | `shitposter.club` | :no_entry_sign: Suspend | :white_check_mark: | Trolls and xenophobia |
 | `unsafe.space` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content, trolls |
 | `woofer.alfter.us` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
+
+> Note: By "controversial content" we mean a lot of xenophobia, hate speech and other content that might break French Law. We're playing safe by suspending some of them after review.
