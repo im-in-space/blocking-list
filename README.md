@@ -40,7 +40,7 @@ Suspended instances will not appear in the federated timeline and you will not b
 | `presidentielle.tech` | :no_mouth: Silence |  | Too many _tweets_ by French politics in the federated timeline |
 | `social.au2pb.net` | :no_mouth: Silence |  | Allows controversial content |
 | `social.bitcast.info` | :no_mouth: Silence |  | News bots |
-| `social.undernet.uy` | :no_mouth: Silence |  | RSS bots, no need to appear in the federated timline |
+| `bot.undernet.uy` | :no_mouth: Silence |  | RSS bots, no need to appear in the federated timline |
 | `pawoo.net` | :no_mouth: Silence | :white_check_mark: | Pedoporn is way too much present |
 | `porntoot.com` | :no_mouth: Silence | :white_check_mark: | Non-spoiled porn |
 | `anitwitter.moe` | :no_entry_sign: Suspend | :white_check_mark: | Harassment, trolls |
