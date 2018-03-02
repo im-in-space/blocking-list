@@ -6,7 +6,7 @@ Last update: `2018-03-02 08:20 (UTC)`
 
 > **Silence** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
-> **Rejecting media** means we won't save a copy of their pictures or videos on our server. Some 3rd party apps might break with this if you follow the user.
+> **Rejecting media** means we won't save a copy of their pictures or videos on our server. Some 3rd party apps might break with this since the media is missing.
 
 ---
 
@@ -29,7 +29,7 @@ Last update: `2018-03-02 08:20 (UTC)`
 | `aeris@social.imirhil.fr` | 😶 Silence | Threats (was relaxed from suspended to silenced) |
 | `CNNNetwork@mastodon.xyz` | 😶 Silence | News bot |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
-| | --- | | |
+| --- | --- | --- | --- |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 
@@ -47,12 +47,12 @@ Suspended instances will not appear in the federated timeline and you will not b
 | `presidentielle.tech` | 😶 Silence |  | Too many _tweets_ by French politics in the federated timeline |
 | `social.au2pb.net` | 😶 Silence |  | Low moderation but under our threshold |
 | `social.bitcast.info` | 😶 Silence |  | News bots |
-| | --- | --- | |
+| --- | --- | --- | --- |
 | `toot.love` | 😶 Silence |  | Low moderation but under our threshold |
 | `baraag.net` | 😶 Silence | ✅ | Loli is allowed |
 | `pawoo.net` | 😶 Silence | ✅ | Loli is allowed |
 | `porntoot.com` | 😶 Silence | ✅ | Non-spoiled porn |
-| | --- | --- | |
+| --- | --- | --- | --- |
 | `2.distsn.org` | 🚫 Suspend | ✅ | Missing email validation control, spam bots |
 | `anitwitter.moe` | 🚫 Suspend | ✅ | Harassment, trolls |
 | `freezepeach.xyz` | 🚫 Suspend | ✅ | Allows controversial content |
@@ -66,4 +66,5 @@ Suspended instances will not appear in the federated timeline and you will not b
 | `unsafe.space` | 🚫 Suspend | ✅ | Allows controversial content, trolls |
 | `woofer.alfter.us` | 🚫 Suspend | ✅ | Allows controversial content |
 
-> Note: By "controversial content" we mean that the instance doesn't have a good moderation and we did notice xenophobia, hate speech and other content that might break French Law. We're playing safe by suspending some of them after review.
+> Note: By "controversial content" we mean that the instance doesn't have a good moderation and we did notice xenophobia, hate speech and other content that might break French Law.  
+> We're playing safe by suspending some of them after review.
