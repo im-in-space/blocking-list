@@ -2,7 +2,7 @@
 This is a list of instances and users that are silenced/suspended on [im-in.space](https://im-in.space/).  
 This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked-on-mastodon), [Cybrespace](https://cybre.space/users/chr/updates/2616) and [Mastocafé](https://social.wxcafe.net/users/wxcafe/updates/2651).
 
-Last update: `2018-03-02 08:03 (UTC)`
+Last update: `2018-03-02 08:20 (UTC)`
 
 > **Silence** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
