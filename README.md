@@ -26,7 +26,7 @@ Last update: `2018-03-02 08:20 (UTC)`
 | User | :no_mouth: / :no_entry_sign: | Reason |
 |------|------------------------------|--------|
 | `83bot@mst3k.interlinked.me` | :no_mouth: Silence | Lewd and offensive bot |
-| `aeris@social.imirhil.fr` | :no_entry_sign: Silence | Threats (was relaxed from suspended to silenced) |
+| `aeris@social.imirhil.fr` | :no_mouth: Silence | Threats (was relaxed from suspended to silenced) |
 | `CNNNetwork@mastodon.xyz` | :no_mouth: Silence | News bot |
 | `jimrusell01@gs.smuglo.li` | :no_mouth: Silence | Only NSFW, appears too much in federated timeline |
 | | --- | | |
@@ -53,7 +53,7 @@ Suspended instances will not appear in the federated timeline and you will not b
 | `pawoo.net` | :no_mouth: Silence | :white_check_mark: | Loli is allowed |
 | `porntoot.com` | :no_mouth: Silence | :white_check_mark: | Non-spoiled porn |
 | | --- | --- | |
-| `2.distsn.org` | :no_mouth: Suspend | :white_check_mark: | Missing email validation control, spam bots |
+| `2.distsn.org` | :no_entry_sign: Suspend | :white_check_mark: | Missing email validation control, spam bots |
 | `anitwitter.moe` | :no_entry_sign: Suspend | :white_check_mark: | Harassment, trolls |
 | `freezepeach.xyz` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
 | `jabb.in` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
@@ -67,3 +67,7 @@ Suspended instances will not appear in the federated timeline and you will not b
 | `woofer.alfter.us` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
 
 > Note: By "controversial content" we mean that the instance doesn't have a good moderation and we did notice xenophobia, hate speech and other content that might break French Law. We're playing safe by suspending some of them after review.
+
+<script>
+  console.log('hi')
+</script>
