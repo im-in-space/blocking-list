@@ -1,7 +1,7 @@
 This is a list of instances and users that are silenced/suspended on [im-in.space](https://im-in.space/).  
 This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked-on-mastodon), [Cybrespace](https://cybre.space/users/chr/updates/2616) and [Mastocafé](https://social.wxcafe.net/users/wxcafe/updates/2651).
 
-Last update: `2018-03-02 09:05 (UTC)`
+Last update: `2018-03-02 09:11 (UTC)`
 
 > **Silence** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -27,6 +27,7 @@ Last update: `2018-03-02 09:05 (UTC)`
 | `83bot@mst3k.interlinked.me` | 😶 Silence | Lewd and offensive bot |
 | `CNNNetwork@mastodon.xyz` | 😶 Silence | News bot |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
+| `washingtonpostbot@social.heckin.tech` | 😶 Silence | News bot |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 
