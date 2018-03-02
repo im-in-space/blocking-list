@@ -25,11 +25,11 @@ Last update: `2018-03-02 08:20 (UTC)`
 
 | User | :no_mouth: / :no_entry_sign: | Reason |
 |------|------------------------------|--------|
-| `jimrusell01@gs.smuglo.li` | :no_mouth: Silence | Only NSFW, appears too much in federated timeline |
 | `83bot@mst3k.interlinked.me` | :no_mouth: Silence | Lewd and offensive bot |
-| `CNNNetwork@mastodon.xyz` | :no_mouth: Silence | News bot |
 | `aeris@social.imirhil.fr` | :no_entry_sign: Silence | Threats (was relaxed from suspended to silenced) |
-| `mastodon_user_matching@2.distsn.org` | :no_entry_sign: Suspend | Spam and malicious links |
+| `CNNNetwork@mastodon.xyz` | :no_mouth: Silence | News bot |
+| `jimrusell01@gs.smuglo.li` | :no_mouth: Silence | Only NSFW, appears too much in federated timeline |
+| | --- | | |
 | `GamerBot@mastodon.social` | :no_entry_sign: Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | :no_entry_sign: Suspend | Death threats, strong xenophobia |
 
@@ -42,25 +42,27 @@ Suspended instances will not appear in the federated timeline and you will not b
 
 | Instance | :no_mouth: / :no_entry_sign: | Reject media | Reason |
 |----------|------------------------------|--------------|--------|
+| `bot.undernet.uy` | :no_mouth: Silence |  | RSS bots, no need to appear in the federated timline |
 | `gorf.club` | :no_mouth: Silence |  | Low moderation but under our threshold |
 | `presidentielle.tech` | :no_mouth: Silence |  | Too many _tweets_ by French politics in the federated timeline |
 | `social.au2pb.net` | :no_mouth: Silence |  | Low moderation but under our threshold |
-| `toot.love` | :no_mouth: Silence |  | Low moderation but under our threshold |
 | `social.bitcast.info` | :no_mouth: Silence |  | News bots |
-| `bot.undernet.uy` | :no_mouth: Silence |  | RSS bots, no need to appear in the federated timline |
+| | --- | --- | |
+| `toot.love` | :no_mouth: Silence |  | Low moderation but under our threshold |
 | `baraag.net` | :no_mouth: Silence | :white_check_mark: | Loli is allowed |
 | `pawoo.net` | :no_mouth: Silence | :white_check_mark: | Loli is allowed |
 | `porntoot.com` | :no_mouth: Silence | :white_check_mark: | Non-spoiled porn |
+| | --- | --- | |
 | `2.distsn.org` | :no_mouth: Suspend | :white_check_mark: | Missing email validation control, spam bots |
 | `anitwitter.moe` | :no_entry_sign: Suspend | :white_check_mark: | Harassment, trolls |
 | `freezepeach.xyz` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
-| `rainbowdash.net` | :no_entry_sign: Suspend | :white_check_mark: | A lot of trolls, very MLP themed |
-| `npf.mlpol.net` | :no_entry_sign: Suspend | :white_check_mark: | /mlpol/ |
-| `sunshinegardens.org` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
-| `sealion.club` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
 | `jabb.in` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
-| `social.heldscal.la` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
+| `npf.mlpol.net` | :no_entry_sign: Suspend | :white_check_mark: | /mlpol/ |
+| `rainbowdash.net` | :no_entry_sign: Suspend | :white_check_mark: | A lot of trolls, very MLP themed |
+| `sealion.club` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
 | `shitposter.club` | :no_entry_sign: Suspend | :white_check_mark: | Trolls and xenophobia |
+| `social.heldscal.la` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
+| `sunshinegardens.org` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
 | `unsafe.space` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content, trolls |
 | `woofer.alfter.us` | :no_entry_sign: Suspend | :white_check_mark: | Allows controversial content |
 
