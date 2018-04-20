@@ -1,9 +1,11 @@
 This is a list of instances and users that are silenced/suspended on [im-in.space](https://im-in.space/).  
 This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked-on-mastodon), [Cybrespace](https://cybre.space/users/chr/updates/2616) and [Mastocafé](https://social.wxcafe.net/users/wxcafe/updates/2651).
 
+If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
+
 Last update: `2018-03-02 09:11 (UTC)`
 
-> **Silence** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
+> **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
 > **Rejecting media** means we won't save a copy of their pictures or videos on our server. Some 3rd party apps might break with this since the media is missing.
 
@@ -35,17 +37,14 @@ Last update: `2018-03-02 09:11 (UTC)`
 
 ### Instances
 
-Silenced instances will not appear in the federated timeline, but you can follow users and communicate with them.  
-Suspended instances will not appear in the federated timeline and you will not be able to follow their users.
-
 | Instance | 😶 / 🚫 | Reject media | Reason |
-|----------|------------------------------|--------------|--------|
+|----------|--------|--------------|--------|
 | `bot.undernet.uy` | 😶 Silence |  | RSS bots, no need to appear in the federated timline |
 | `gorf.club` | 😶 Silence |  | Low moderation but under our threshold |
 | `presidentielle.tech` | 😶 Silence |  | Too many _tweets_ by French politics in the federated timeline |
 | `social.au2pb.net` | 😶 Silence |  | Low moderation but under our threshold |
 | `social.bitcast.info` | 😶 Silence |  | News bots |
-| `social.imirhil.fr` | 😶 Silence |  | Single-user instance sendin threats (was relaxed) |
+| `social.imirhil.fr` | 😶 Silence |  | Single-user instance sending threats |
 | `toot.love` | 😶 Silence |  | Low moderation but under our threshold |
 | `baraag.net` | 😶 Silence | ✅ | Loli is allowed |
 | `pawoo.net` | 😶 Silence | ✅ | Loli is allowed |
