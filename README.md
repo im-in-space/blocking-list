@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2018-03-02 09:11 (UTC)`
+Last update: `2018-06-08 11:44 (UTC)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -25,12 +25,15 @@ Last update: `2018-03-02 09:11 (UTC)`
 
 ### External Users
 
+Feel free to follow silenced users if they don't bother you.
+
 | User | 😶 / 🚫 | Reason |
 |------|------------------------------|--------|
 | `83bot@mst3k.interlinked.me` | 😶 Silence | Lewd and offensive bot |
-| `CNNNetwork@mastodon.xyz` | 😶 Silence | News bot |
+| `CNNNetwork@mastodon.xyz` | 😶 Silence | Verbose news bot |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
-| `washingtonpostbot@social.heckin.tech` | 😶 Silence | News bot |
+| `TransMediaWatch@birdsite.link` | 😶 Silence | Verbose news bot |
+| `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 
@@ -40,15 +43,14 @@ Last update: `2018-03-02 09:11 (UTC)`
 
 | Instance | 😶 / 🚫 | Reject media | Reason |
 |----------|--------|--------------|--------|
+| `baraag.net` | None | ✅ | Loli is allowed |
+| `pawoo.net` | None | ✅ | Loli is allowed |
 | `bot.undernet.uy` | 😶 Silence |  | RSS bots, no need to appear in the federated timline |
 | `gorf.club` | 😶 Silence |  | Low moderation but under our threshold |
-| `presidentielle.tech` | 😶 Silence |  | Too many _tweets_ by French politics in the federated timeline |
 | `social.au2pb.net` | 😶 Silence |  | Low moderation but under our threshold |
 | `social.bitcast.info` | 😶 Silence |  | News bots |
 | `social.imirhil.fr` | 😶 Silence |  | Single-user instance sending threats |
 | `toot.love` | 😶 Silence |  | Low moderation but under our threshold |
-| `baraag.net` | 😶 Silence | ✅ | Loli is allowed |
-| `pawoo.net` | 😶 Silence | ✅ | Loli is allowed |
 | `porntoot.com` | 😶 Silence | ✅ | Non-spoiled porn |
 | `2.distsn.org` | 🚫 Suspend | ✅ | Missing email validation control, spam bots |
 | `anitwitter.moe` | 🚫 Suspend | ✅ | Harassment, trolls |
