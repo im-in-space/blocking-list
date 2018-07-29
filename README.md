@@ -15,10 +15,6 @@ Last update: `2018-07-29 12:41 (UTC)`
 
 | User | Reason |
 |------|--------|
-| `Curv` | Actually a typo by `Curvy` |
-| `ldy` | Actually a typo by `kdy` |
-| `yann_c` | Member asked to be deleted |
-| `sphinxc0re` | Member asked to be deleted |
 | `lost_in_gen_z` | Account made for ads |
 
 ---
