@@ -32,6 +32,8 @@ Feel free to follow silenced users if they don't bother you.
 | `TransMediaWatch@birdsite.link` | 😶 Silence | Verbose news bot |
 | `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
+| `Azelios@waifu.club` | 🚫 Suspend | strong homo/transphobia |
+| `you2s6@waifu.club` | 🚫 Suspend | strong homo/transphobia |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 
 ---
