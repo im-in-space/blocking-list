@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2018-07-29 12:41 (UTC)`
+Last update: `2018-08-17 18:39 (UTC)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -45,11 +45,12 @@ Feel free to follow silenced users if they don't bother you.
 | `baraag.net` | None | ✅ | Loli is allowed |
 | `pawoo.net` | None | ✅ | Loli is allowed |
 | `bot.undernet.uy` | 😶 Silence |  | RSS bots, no need to appear in the federated timline |
-| `gorf.club` | 😶 Silence |  | Low moderation but under our threshold |
-| `social.au2pb.net` | 😶 Silence |  | Low moderation but under our threshold |
+| `gorf.club` | 😶 Silence |  | Low moderation |
+| `social.au2pb.net` | 😶 Silence |  | Low moderation |
 | `social.bitcast.info` | 😶 Silence |  | News bots |
 | `social.imirhil.fr` | 😶 Silence |  | Single-user instance sending threats |
-| `toot.love` | 😶 Silence |  | Low moderation but under our threshold |
+| `toot.love` | 😶 Silence |  | Low moderation |
+| `waifu.club` | 😶 Silence |  | Low moderation |
 | `porntoot.com` | 😶 Silence | ✅ | Non-spoiled porn |
 | `2.distsn.org` | 🚫 Suspend | ✅ | Missing email validation control, spam bots |
 | `anitwitter.moe` | 🚫 Suspend | ✅ | Harassment, trolls |
