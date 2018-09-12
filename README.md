@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2018-08-17 18:49 (UTC)`
+Last update: `2018-09-12 9:12 (UTC)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -29,10 +29,11 @@ Feel free to follow silenced users if they don't bother you.
 | `CNNNetwork@mastodon.xyz` | 😶 Silence | Verbose news bot |
 | `eboeken@mastodon.social` | 😶 Silence | Bot flooding the federated timeline |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
+| `taka36@mstdn.jp` | 😶 Silence | Verbose news bot |
 | `TransMediaWatch@birdsite.link` | 😶 Silence | Verbose news bot |
 | `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
-| `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `Azelios@waifu.social` | 🚫 Suspend | strong homo/transphobia |
+| `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 | `you2s6@waifu.social` | 🚫 Suspend | strong homo/transphobia |
 
