@@ -30,6 +30,7 @@ Feel free to follow silenced users if they don't bother you.
 | `eboeken@mastodon.social` | 😶 Silence | Bot flooding the federated timeline |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
 | `taka36@mstdn.jp` | 😶 Silence | Verbose news bot |
+| `News@toot.world` | 😶 Silence | News bot sending to a weird "mastodon" site |
 | `TransMediaWatch@birdsite.link` | 😶 Silence | Verbose news bot |
 | `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
 | `Azelios@waifu.social` | 🚫 Suspend | strong homo/transphobia |
