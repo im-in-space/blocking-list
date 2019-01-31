@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2018-12-04 21 (UTC)`
+Last update: `2019-31-01 13:00 (UTC)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -62,12 +62,14 @@ Feel free to follow silenced users if they don't bother you.
 | `anitwitter.moe` | 🚫 Suspend | ✅ | Harassment, trolls |
 | `freespeechextremist.com` | 🚫 Suspend | ✅ | Allows controversial content |
 | `freezepeach.xyz` | 🚫 Suspend | ✅ | Allows controversial content |
-| `greenlifeplus.net` 🚫 Suspend | ✅ | Spam and suspected data harvesting |
+| `greenlifeplus.net` | 🚫 Suspend | ✅ | Spam and suspected data harvesting |
 | `jabb.in` | 🚫 Suspend | ✅ | Allows controversial content |
+| `mstdn.foxfam.club` | 🚫 Suspend | ✅ | Allows controversial content |
 | `npf.mlpol.net` | 🚫 Suspend | ✅ | /mlpol/ |
 | `rainbowdash.net` | 🚫 Suspend | ✅ | A lot of trolls, very MLP themed |
 | `sealion.club` | 🚫 Suspend | ✅ | Allows controversial content |
 | `shitposter.club` | 🚫 Suspend | ✅ | Trolls and xenophobia |
+| `social.foxfam.club` | 🚫 Suspend | ✅ | Allows controversial content |
 | `social.heldscal.la` | 🚫 Suspend | ✅ | Allows controversial content |
 | `sunshinegardens.org` | 🚫 Suspend | ✅ | Allows controversial content |
 | `unsafe.space` | 🚫 Suspend | ✅ | Allows controversial content, trolls |
