@@ -36,6 +36,7 @@ Feel free to follow silenced users if they don't bother you.
 | `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
 | `zhihu@toot.la` | 😶 Silence | Verbose bot |
 | `Azelios@waifu.social` | 🚫 Suspend | strong homo/transphobia |
+| `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 | `you2s6@waifu.social` | 🚫 Suspend | strong homo/transphobia |
