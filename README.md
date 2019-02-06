@@ -53,9 +53,9 @@ Feel free to follow silenced users if they don't bother you.
 | `pawoo.net` | None | ✅ | Loli is allowed |
 | `bot.undernet.uy` | 😶 Silence |  | RSS bots, no need to appear in the federated timline |
 | `gorf.club` | 😶 Silence |  | Low moderation |
+| `newsbots.eu` | 😶 Silence |  | News bots |
 | `social.au2pb.net` | 😶 Silence |  | Low moderation |
 | `social.bitcast.info` | 😶 Silence |  | News bots |
-| `` | 😶 Silence |  | News bots |
 | `social.imirhil.fr` | 😶 Silence |  | Single-user instance sending threats |
 | `toot.love` | 😶 Silence |  | Low moderation |
 | `waifu.social` | 😶 Silence |  | Low moderation |
