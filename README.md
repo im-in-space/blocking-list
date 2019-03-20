@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2019-03-19 22:43 (UTC)`
+Last update: `2019-03-20 10:00 (UTC)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -11,12 +11,22 @@ Last update: `2019-03-19 22:43 (UTC)`
 
 ---
 
+#### The spam list
+
+All those users are suspended for sending spam messages.
+
+- `anddyn810@im-in.space`
+- `CandiceOwens635@switter.at`
+- `levm@mastodon.cloud`
+- `lost_in_gen_z@im-in.space`
+- `MelissaSmith85@mastodon.technology`
+
+---
+
 ### Local Users
 
 | User | Reason |
 |------|--------|
-| `anddyn810` | Account made for ads |
-| `lost_in_gen_z` | Account made for ads |
 
 ---
 
@@ -38,13 +48,11 @@ Feel free to follow silenced users if they don't bother you.
 | `TransMediaWatch@birdsite.link` | 😶 Silence | Verbose news bot |
 | `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
 | `zhihu@toot.la` | 😶 Silence | Verbose bot |
-| `Azelios@waifu.social` | 🚫 Suspend | strong homo/transphobia |
+| `Azelios@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
 | `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
-| `levm@mastodon.cloud` | 🚫 Suspend | Spam |
-| `MelissaSmith85@mastodon.technology` | 🚫 Suspend | Spam |
-| `you2s6@waifu.social` | 🚫 Suspend | strong homo/transphobia |
+| `you2s6@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
 
 ---
 
