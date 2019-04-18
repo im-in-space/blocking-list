@@ -13,7 +13,7 @@ Last update: `2019-04-18 18:51 (UTC)`
 
 #### The spam list
 
-All those users are suspended for sending spam messages.
+All those users are suspended for sending spam messages or creating a profile with advertisement links.
 
 - `AmandaPeterson@humblr.social`
 - `anddyn810@im-in.space`
