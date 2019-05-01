@@ -84,7 +84,6 @@ Feel free to follow silenced users if they don't bother you.
 | `greenlifeplus.net` | 🚫 Suspend | ✅ | Spam and suspected data harvesting |
 | `jabb.in` | 🚫 Suspend | ✅ | Allows controversial content |
 | `mstdn.foxfam.club` | 🚫 Suspend | ✅ | Allows controversial content |
-| `npf.mlpol.net` | 🚫 Suspend | ✅ | /mlpol/ |
 | `rainbowdash.net` | 🚫 Suspend | ✅ | A lot of trolls, very MLP themed |
 | `sealion.club` | 🚫 Suspend | ✅ | Allows controversial content |
 | `shitposter.club` | 🚫 Suspend | ✅ | Trolls and xenophobia |
