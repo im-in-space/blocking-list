@@ -63,8 +63,8 @@ Feel free to follow silenced users if they don't bother you.
 
 | Instance | 😶 / 🚫 | Reject media | Reason |
 |----------|--------|--------------|--------|
-| `baraag.net` | None | ✅ | Loli is allowed |
 | `pawoo.net` | None | ✅ | Loli is allowed |
+| `baraag.net` | 😶 Silence | ✅ | Loli is allowed |
 | `bot.undernet.uy` | 😶 Silence |  | RSS bots, no need to appear in the federated timeline |
 | `gorf.club` | 😶 Silence |  | Low moderation |
 | `mstdn.kemono-friends.info` | 😶 Silence |  | Continuous flood in the federated timeline |
