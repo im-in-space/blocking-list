@@ -70,6 +70,7 @@ Feel free to follow silenced users if they don't bother you.
 | `gorf.club` | 😶 Silence |  | Low moderation |
 | `mstdn.kemono-friends.info` | 😶 Silence |  | Continuous flood in the federated timeline |
 | `newsbots.eu` | 😶 Silence |  | News bots |
+| `pokemon.men` | 😶 Silence |  | Lots of JP RSS bots |
 | `social.au2pb.net` | 😶 Silence |  | Low moderation |
 | `social.bitcast.info` | 😶 Silence |  | News bots |
 | `social.imirhil.fr` | 😶 Silence |  | Single-user instance sending threats |
