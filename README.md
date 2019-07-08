@@ -20,6 +20,7 @@ All those users are suspended for sending spam messages or creating a profile wi
 - `BabyBitch8@im-in.space`
 - `CandiceOwens635@switter.at`
 - `duongpham9019@im-in.space`
+- `jjjnordis99@im-in.space`
 - `kristinaxmorris@pawoo.net`
 - `levm@mastodon.cloud`
 - `lost_in_gen_z@im-in.space`
