@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2019-07-16 08:21 (UTC)`
+Last update: `2019-07-20 20:30 (UTC)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -81,6 +81,7 @@ Feel free to follow silenced users if they don't bother you.
 | `social.imirhil.fr` | 😶 Silence |  | Single-user instance sending threats |
 | `toot.love` | 😶 Silence |  | Low moderation |
 | `waifu.social` | 😶 Silence |  | Low moderation |
+| `humblr.social` | 😶 Silence |  | Lots of (untagged, public) porn |
 | `toot.world` | 😶 Silence | ✅ | Too many spammy accounts and weird mirror website |
 | `quey.org` | 😶 Silence | ✅ | Very close to the above one |
 | `porntoot.com` | 😶 Silence | ✅ | Non-spoiled porn |
@@ -101,6 +102,7 @@ Feel free to follow silenced users if they don't bother you.
 | `social.heldscal.la` | 🚫 Suspend | ✅ | Allows controversial content |
 | `sunshinegardens.org` | 🚫 Suspend | ✅ | Allows controversial content |
 | `unsafe.space` | 🚫 Suspend | ✅ | Allows controversial content, trolls |
+| `weedis.life` | 🚫 Suspend | ✅ | Allows controversial content |
 | `woofer.alfter.us` | 🚫 Suspend | ✅ | Allows controversial content |
 
 > Note: By "controversial content" we mean that the instance doesn't have a good moderation and we did notice xenophobia, hate speech and other content that might break French Law.  
