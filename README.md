@@ -63,6 +63,7 @@ Feel free to follow silenced users if they don't bother you.
 | `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
+| `MyLSD@pawoo.net` | 🚫 Suspend | Mass follow bot |
 | `you2s6@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
 
 ---
