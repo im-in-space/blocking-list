@@ -72,47 +72,7 @@ Feel free to follow silenced users if they don't bother you.
 
 ### Instances
 
-| Instance | 😶 / 🚫 | Reject media | Reason |
-|----------|--------|--------------|--------|
-| `pawoo.net` | None | ✅ | Loli is allowed |
-| `baraag.net` | 😶 Silence | ✅ | Loli is allowed |
-| `bot.undernet.uy` | 😶 Silence |  | RSS bots, no need to appear in the federated timeline |
-| `gorf.club` | 😶 Silence |  | Low moderation |
-| `mstdn.kemono-friends.info` | 😶 Silence |  | Continuous flood in the federated timeline |
-| `newsbots.eu` | 😶 Silence |  | News bots |
-| `pokemon.men` | 😶 Silence |  | Lots of JP RSS bots |
-| `social.au2pb.net` | 😶 Silence |  | Low moderation |
-| `social.bitcast.info` | 😶 Silence |  | News bots |
-| `social.imirhil.fr` | 😶 Silence |  | Single-user instance sending threats |
-| `toot.love` | 😶 Silence |  | Low moderation |
-| `waifu.social` | 😶 Silence |  | Low moderation |
-| `humblr.social` | 😶 Silence |  | Lots of (untagged, public) porn |
-| `toot.world` | 😶 Silence | ✅ | Too many spammy accounts and weird mirror website |
-| `quey.org` | 😶 Silence | ✅ | Very close to the above one |
-| `porntoot.com` | 😶 Silence | ✅ | Non-spoiled porn |
-| `twimblr.xyz` | 😶 Silence | ✅ | Non-spoiled porn |
-| `2.distsn.org` | 🚫 Suspend | ✅ | Missing email validation control, spam bots |
-| `anitwitter.moe` | 🚫 Suspend | ✅ | Harassment, trolls |
-| `freefedifollowers.ga` | 🚫 Suspend | ✅ | Overload instances |
-| `freespeechextremist.com` | 🚫 Suspend | ✅ | Allows controversial content |
-| `freezepeach.xyz` | 🚫 Suspend | ✅ | Allows controversial content |
-| `gab.ai` | 🚫 Suspend | ✅ | 🐸 |
-| `gab.com` | 🚫 Suspend | ✅ | 🐸 |
-| `gab.protohype.net` | 🚫 Suspend | ✅ | 🐸 |
-| `gabfed.com` | 🚫 Suspend | ✅ | 🐸 |
-| `gameliberty.club` | 🚫 Suspend | ✅ | Clear lack of moderation, allows controversial content |
-| `greenlifeplus.net` | 🚫 Suspend | ✅ | Spam and suspected data harvesting |
-| `jabb.in` | 🚫 Suspend | ✅ | Allows controversial content |
-| `mstdn.foxfam.club` | 🚫 Suspend | ✅ | Allows controversial content |
-| `rainbowdash.net` | 🚫 Suspend | ✅ | A lot of trolls, very MLP themed |
-| `sealion.club` | 🚫 Suspend | ✅ | Allows controversial content |
-| `shitposter.club` | 🚫 Suspend | ✅ | Trolls and xenophobia |
-| `social.foxfam.club` | 🚫 Suspend | ✅ | Allows controversial content |
-| `social.heldscal.la` | 🚫 Suspend | ✅ | Allows controversial content |
-| `sunshinegardens.org` | 🚫 Suspend | ✅ | Allows controversial content |
-| `unsafe.space` | 🚫 Suspend | ✅ | Allows controversial content, trolls |
-| `weedis.life` | 🚫 Suspend | ✅ | Allows controversial content |
-| `woofer.alfter.us` | 🚫 Suspend | ✅ | Allows controversial content |
+_[This list is now shown in the "About More" page.](https://im-in.space/about/more#unavailable-content)_
 
 > Note: By "controversial content" we mean that the instance doesn't have a good moderation and we did notice xenophobia, hate speech and other content that might break French Law.  
 > We're playing safe by suspending some of them after review.
