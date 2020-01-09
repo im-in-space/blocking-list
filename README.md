@@ -56,7 +56,7 @@ Feel free to follow silenced users if they don't bother you.
 
 ---
 
-#### The spam list
+### The spam list
 
 All those users are suspended for sending spam messages or creating a profile with advertisement links.
 
