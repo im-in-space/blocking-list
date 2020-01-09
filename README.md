@@ -11,39 +11,12 @@ Last update: `2020-01-09 08:41 (CET)`
 
 ---
 
-#### The spam list
+### Instances
 
-All those users are suspended for sending spam messages or creating a profile with advertisement links.
+_[This list is now shown in the "About More" page.](https://im-in.space/about/more#unavailable-content)_
 
-- `AmandaPeterson@humblr.social`
-- `anddyn810@im-in.space`
-- `AriaLAnna32@pawoo.net`
-- `AriaLAnna32@pawoo.net`
-- `BabyBitch8@im-in.space`
-- `CandiceOwens635@switter.at`
-- `Cpt_JC@mastodon.social`
-- `Cpt_JC@mastodon.social`
-- `duongpham9019@im-in.space`
-- `eplerben092409@mastodon.social`
-- `Erinkyan@mastodon.social`
-- `espan_olito@mastodon.social`
-- `Hanakooo9@pawoo.net`
-- `Hanami87w@mstdn.jp`
-- `Hanami87w@mstdn.jp`
-- `jjjnordis99@im-in.space`
-- `kristinaxmorris@pawoo.net`
-- `levm@mastodon.cloud`
-- `lost_in_gen_z@im-in.space`
-- `MariaEls22@pawoo.net`
-- `MelissaSmith85@mastodon.technology`
-- `Mizuki77@mastodon.social`
-- `Naomii59@pawoo.net`
-- `Naomii70@pawoo.net`
-- `NGHix@mastodon.cloud`
-- `Nookie@floss.social`
-- `orderhangmy@im-in.space`
-- `TheNuker@mastodon.social`
-- `tracylucky88@im-in.space`
+> Note: By "controversial content" we mean that the instance doesn't have a good moderation and we did notice xenophobia, hate speech and other content that might break French Law.  
+> We're playing safe by suspending some of them after review.
 
 ---
 
@@ -83,9 +56,36 @@ Feel free to follow silenced users if they don't bother you.
 
 ---
 
-### Instances
+#### The spam list
 
-_[This list is now shown in the "About More" page.](https://im-in.space/about/more#unavailable-content)_
+All those users are suspended for sending spam messages or creating a profile with advertisement links.
 
-> Note: By "controversial content" we mean that the instance doesn't have a good moderation and we did notice xenophobia, hate speech and other content that might break French Law.  
-> We're playing safe by suspending some of them after review.
+- `AmandaPeterson@humblr.social`
+- `anddyn810@im-in.space`
+- `AriaLAnna32@pawoo.net`
+- `AriaLAnna32@pawoo.net`
+- `BabyBitch8@im-in.space`
+- `CandiceOwens635@switter.at`
+- `Cpt_JC@mastodon.social`
+- `Cpt_JC@mastodon.social`
+- `duongpham9019@im-in.space`
+- `eplerben092409@mastodon.social`
+- `Erinkyan@mastodon.social`
+- `espan_olito@mastodon.social`
+- `Hanakooo9@pawoo.net`
+- `Hanami87w@mstdn.jp`
+- `Hanami87w@mstdn.jp`
+- `jjjnordis99@im-in.space`
+- `kristinaxmorris@pawoo.net`
+- `levm@mastodon.cloud`
+- `lost_in_gen_z@im-in.space`
+- `MariaEls22@pawoo.net`
+- `MelissaSmith85@mastodon.technology`
+- `Mizuki77@mastodon.social`
+- `Naomii59@pawoo.net`
+- `Naomii70@pawoo.net`
+- `NGHix@mastodon.cloud`
+- `Nookie@floss.social`
+- `orderhangmy@im-in.space`
+- `TheNuker@mastodon.social`
+- `tracylucky88@im-in.space`
