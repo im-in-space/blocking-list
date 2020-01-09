@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2019-09-14 14:54 (UTC)`
+Last update: `2020-01-09 08:41 (CET)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -18,18 +18,31 @@ All those users are suspended for sending spam messages or creating a profile wi
 - `AmandaPeterson@humblr.social`
 - `anddyn810@im-in.space`
 - `AriaLAnna32@pawoo.net`
+- `AriaLAnna32@pawoo.net`
 - `BabyBitch8@im-in.space`
 - `CandiceOwens635@switter.at`
 - `Cpt_JC@mastodon.social`
+- `Cpt_JC@mastodon.social`
 - `duongpham9019@im-in.space`
-- `jjjnordis99@im-in.space`
+- `eplerben092409@mastodon.social`
+- `Erinkyan@mastodon.social`
+- `espan_olito@mastodon.social`
+- `Hanakooo9@pawoo.net`
 - `Hanami87w@mstdn.jp`
+- `Hanami87w@mstdn.jp`
+- `jjjnordis99@im-in.space`
 - `kristinaxmorris@pawoo.net`
 - `levm@mastodon.cloud`
 - `lost_in_gen_z@im-in.space`
+- `MariaEls22@pawoo.net`
 - `MelissaSmith85@mastodon.technology`
+- `Mizuki77@mastodon.social`
+- `Naomii59@pawoo.net`
+- `Naomii70@pawoo.net`
 - `NGHix@mastodon.cloud`
 - `Nookie@floss.social`
+- `orderhangmy@im-in.space`
+- `TheNuker@mastodon.social`
 - `tracylucky88@im-in.space`
 
 ---
