@@ -41,6 +41,7 @@ Feel free to follow silenced users if they don't bother you.
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
 | `JVNiPedia@blessedgeeks.social` | 😶 Silence | Verbose bot |
 | `loli@pl.smuglo.li` | 😶 Silence | Because lolis of course |
+| `News18@mstdn.social` | 😶 Silence | Verbose news bot |
 | `reddit@toot.world` | 😶 Silence | Verbose bot (and with some formating issues) |
 | `taka36@mstdn.jp` | 😶 Silence | Verbose news bot |
 | `tiho_discord_bridge@mstdn.kemono-friends.info` | 😶 Silence | Verbose bot |
