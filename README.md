@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2020-01-24 11:10 (CET)`
+Last update: `2020-02-09 23:54 (CET)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -48,6 +48,7 @@ Feel free to follow silenced users if they don't bother you.
 | `tiho_discord_bridge@mstdn.kemono-friends.info` | 😶 Silence | Verbose bot |
 | `TransMediaWatch@birdsite.link` | 😶 Silence | Verbose news bot |
 | `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
+| `YourAnonRiots@mstdn.social` | 😶 Silence | Flood |
 | `zhihu@toot.la` | 😶 Silence | Verbose bot |
 | `Azelios@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
 | `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
