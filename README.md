@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2020-04-16 17:02 (CET)`
+Last update: `2020-04-16 17:17 (CET)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -36,13 +36,19 @@ Feel free to follow silenced users if they don't bother you.
 | `83bot@mst3k.interlinked.me` | 😶 Silence | Lewd and offensive bot |
 | `aljazeera@intahnet.co.uk` | 😶 Silence | Verbose news bot |
 | `aljazeera@squeet.me` | 😶 Silence | Verbose news bot |
+| `Azelios@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
 | `CNN@mstdn.social` | 😶 Silence | Verbose news bot |
+| `CNN_Europe@mstdn.social` | 😶 Silence | Verbose news bot |
 | `CNNNetwork@mastodon.xyz` | 😶 Silence | Verbose news bot |
 | `eboeken@mastodon.social` | 😶 Silence | Bot flooding the federated timeline |
+| `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
+| `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
+| `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 | `JVNiPedia@blessedgeeks.social` | 😶 Silence | Verbose bot |
 | `loli@pl.smuglo.li` | 😶 Silence | Because lolis of course |
 | `minetest@mastodon.madrid` | 😶 Silence | Not useful bot |
+| `MyLSD@pawoo.net` | 🚫 Suspend | Mass follow bot |
 | `News18@mstdn.social` | 😶 Silence | Verbose news bot |
 | `newsbot@dajiaweibo.com ` | 😶 Silence | Verbose news bot |
 | `radio_londres@mamot.fr` | 😶 Silence | Flood of tweets |
@@ -52,15 +58,11 @@ Feel free to follow silenced users if they don't bother you.
 | `taka36@mstdn.jp` | 😶 Silence | Verbose news bot |
 | `tiho_discord_bridge@mstdn.kemono-friends.info` | 😶 Silence | Verbose bot |
 | `TransMediaWatch@birdsite.link` | 😶 Silence | Verbose news bot |
+| `victorhck@mastodon.social` | 😶 Silence | Flood |
 | `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
+| `you2s6@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
 | `YourAnonRiots@mstdn.social` | 😶 Silence | Flood |
 | `zhihu@toot.la` | 😶 Silence | Verbose bot |
-| `Azelios@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
-| `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
-| `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
-| `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
-| `MyLSD@pawoo.net` | 🚫 Suspend | Mass follow bot |
-| `you2s6@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
 
 ---
 
