@@ -43,7 +43,6 @@ Feel free to follow silenced users if they don't bother you.
 | `eboeken@mastodon.social` | 😶 Silence | Bot flooding the federated timeline |
 | `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
-| `geogoino@dajiaweibo.com` | 🚫 Suspend | Spam |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 | `JVNiPedia@blessedgeeks.social` | 😶 Silence | Verbose bot |
@@ -81,6 +80,7 @@ All those users are suspended for sending spam messages or creating a profile wi
 - `eplerben092409@mastodon.social`
 - `Erinkyan@mastodon.social`
 - `espan_olito@mastodon.social`
+- `geogoino@dajiaweibo.com`
 - `Hanakooo9@pawoo.net`
 - `Hanami87w@mstdn.jp`
 - `jjjnordis99@im-in.space`
