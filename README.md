@@ -22,6 +22,8 @@ _[This list is now shown in the "About More" page.](https://im-in.space/about/mo
 
 ### Local Users
 
+_(Note: spam accounts are listed [below](#the-spam-list))_
+
 | User | Reason |
 |------|--------|
 
@@ -29,7 +31,8 @@ _[This list is now shown in the "About More" page.](https://im-in.space/about/mo
 
 ### External Users
 
-Feel free to follow silenced users if they don't bother you.
+Feel free to follow silenced users if they don't bother you.  
+_(Note: spam accounts are listed [below](#the-spam-list))_
 
 | User | 😶 / 🚫 | Reason |
 |------|------------------------------|--------|
