@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2020-05-19 14:35 (CET)`
+Last update: `2020-05-19 7:33 (CET)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -94,6 +94,7 @@ All those users are suspended for sending spam messages or creating a profile wi
 - `levm@mastodon.cloud`
 - `lost_in_gen_z@im-in.space`
 - `MariaEls22@pawoo.net`
+- `martingalmarino@mastodon.social`
 - `MelissaSmith85@mastodon.technology`
 - `Mizuki77@mastodon.social`
 - `Naomii59@pawoo.net`
