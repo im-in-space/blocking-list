@@ -58,6 +58,7 @@ _(Note: spam accounts are listed [below](#the-spam-list))_
 | `newsbot@dajiaweibo.com ` | 😶 Silence | Verbose news bot |
 | `radio_londres@mamot.fr` | 😶 Silence | Flood of tweets |
 | `radio_londres@mastodon.social` | 😶 Silence | Flood of tweets |
+| `reddit@societal.co` | 😶 Silence | Verbose bot |
 | `reddit@toot.world` | 😶 Silence | Verbose bot (and with some formating issues) |
 | `RFI_Cn@m.gretaoto.ca` | 😶 Silence | Verbose news bot |
 | `schestowitz@pleroma.site` | 😶 Silence | Flood of news |
