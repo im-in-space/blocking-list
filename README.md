@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2020-06-29 17:37 (CET)`
+Last update: `2020-07-24 17:54 (CET)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -46,6 +46,7 @@ _(Note: spam accounts are listed [below](#the-spam-list))_
 | `CoronavirusNews@fedibird.com` | 😶 Silence | Verbose bot/Flood |
 | `eboeken@mastodon.social` | 😶 Silence | Bot flooding the federated timeline |
 | `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
+| `FertilityBot@fedi.z0ne.moe` | 😶 Silence | NSFW and no clear mention of it |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `hvv@m.kuko.hamburg` | 😶 Silence | Flood |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
