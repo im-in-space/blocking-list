@@ -22,17 +22,18 @@ _[This list is now shown in the "About More" page.](https://im-in.space/about/mo
 
 ### Local Users
 
-_(Note: spam accounts are listed [below](#the-spam-list))_
+_(Note: spam accounts aren't listed.)_
 
 | User | Reason |
 |------|--------|
+| -    | -      |
 
 ---
 
 ### External Users
 
 Feel free to follow silenced users if they don't bother you.  
-_(Note: spam accounts are listed [below](#the-spam-list))_
+_(Note: spam accounts aren't listed.)_
 
 | User | 😶 / 🚫 | Reason |
 |------|------------------------------|--------|
@@ -47,9 +48,10 @@ _(Note: spam accounts are listed [below](#the-spam-list))_
 | `CoronavirusNews@fedibird.com` | 😶 Silence | Verbose bot/Flood |
 | `eboeken@mastodon.social` | 😶 Silence | Bot flooding the federated timeline |
 | `federationbot@*` | 🚫 Suspend | Admins, please use relays! |
-| `FertilityBot@fedi.z0ne.moe` | 😶 Silence | NSFW and no clear mention of it |
+| `FertilityBot@fedi.z0ne.moe` | 😶 Silence | NSFW and no CW |
 | `GamerBot@mastodon.social` | 🚫 Suspend | Auto-Boosting bot |
 | `google@societal.co` | 😶 Silence | Verbose news bot |
+| `gwb@social.beachcom.org` | 😶 Silence | Verbose news bot |
 | `hvv@m.kuko.hamburg` | 😶 Silence | Flood |
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
@@ -69,51 +71,12 @@ _(Note: spam accounts are listed [below](#the-spam-list))_
 | `taka36@mstdn.jp` | 😶 Silence | Verbose news bot |
 | `testbot@botrys.masto.host` | 😶 Silence | Verbose bot |
 | `tiho_discord_bridge@mstdn.kemono-friends.info` | 😶 Silence | Verbose bot |
+| `titsbot@phreedom.tk` | 😶 Silence | NSFW and no CW |
 | `TransMediaWatch@birdsite.link` | 😶 Silence | Verbose news bot |
 | `travel@social.beachcom.org` | 😶 Silence | Verbose news bot |
 | `victorhck@mastodon.social` | 😶 Silence | Flood |
 | `washingtonpostbot@social.heckin.tech` | 😶 Silence | Verbose news bot |
+| `xboxsupport@mastodon.linuxbox.ninja` | 😶 Silence | Posts useless replies from Twitter |
 | `you2s6@waifu.social` | 🚫 Suspend | Strong homo/transphobia |
 | `YourAnonRiots@mstdn.social` | 😶 Silence | Flood |
 | `zhihu@toot.la` | 😶 Silence | Verbose bot |
-| `titsbot@phreedom.tk` | 😶 Silence | NSFW ~~and no clear mention of it~~ (yeah there's the name but...) |
-
----
-
-### The spam list
-
-All those users are suspended for sending spam messages or creating a profile with advertisement links.
-
-- `AmandaPeterson@humblr.social`
-- `anddyn810@im-in.space`
-- `Anna_hot@switter.at`
-- `AriaLAnna32@pawoo.net`
-- `BabyBitch8@im-in.space`
-- `CandiceOwens635@switter.at`
-- `Cpt_JC@mastodon.social`
-- `duongpham9019@im-in.space`
-- `eplerben092409@mastodon.social`
-- `Erinkyan@mastodon.social`
-- `espan_olito@mastodon.social`
-- `flossomeorthodontics@mas.to`
-- `gem789club@im-in.space`
-- `geogoino@dajiaweibo.com`
-- `Hanakooo9@pawoo.net`
-- `Hanami87w@mstdn.jp`
-- `jjjnordis99@im-in.space`
-- `kristinaxmorris@pawoo.net`
-- `levm@mastodon.cloud`
-- `lost_in_gen_z@im-in.space`
-- `MariaEls22@pawoo.net`
-- `martingalmarino@mastodon.social`
-- `MelissaSmith85@mastodon.technology`
-- `Mizuki77@mastodon.social`
-- `Naomii59@pawoo.net`
-- `Naomii70@pawoo.net`
-- `NGHix@mastodon.cloud`
-- `Nookie@floss.social`
-- `orderhangmy@im-in.space`
-- `TheNuker@mastodon.social`
-- `tracylucky88@im-in.space`
-- `Vladdimyr@mastodon.social`
-- `xosominhngoc@social.taker.fr`
