@@ -3,7 +3,7 @@ This is inspired by the work of [Toot Café](https://github.com/tootcafe/blocked
 
 If you need to contact us, feel free to send an email at `kdy [at] im-in [dot] space` or [toot at Kody](https://im-in.space/@kdy).
 
-Last update: `2021-05-27 10:03 (CET)`
+Last update: `2021-07-26 16:42 (CET)`
 
 > **Silencing** a user or instance is making sure they don't appear in public timelines. You can still follow them.  
 > **Suspending** a user or instance means we wont federate at all with them. You can't follow them.  
@@ -56,6 +56,7 @@ _(Note: spam accounts aren't listed.)_
 | `jimrusell01@gs.smuglo.li` | 😶 Silence | Only NSFW, appears too much in federated timeline |
 | `JPNEY@masto.themimitoof.fr` | 🚫 Suspend | Death threats, strong xenophobia |
 | `JVNiPedia@blessedgeeks.social` | 😶 Silence | Verbose bot |
+| `libe@mamot.fr` | 😶 Silence | Verbose news bot |
 | `loli@pl.smuglo.li` | 😶 Silence | Because lolis of course |
 | `metro@societal.co` | 😶 Silence | Verbose news bot |
 | `minetest@mastodon.madrid` | 😶 Silence | Not useful bot |
